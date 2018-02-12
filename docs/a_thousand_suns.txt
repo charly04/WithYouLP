@@ -1,0 +1,28 @@
+<div class="col-lg-6" >
+<img src="img/a_thousand_suns.jpg" width="400">
+</div>
+<div class="col-lg-3" >
+<p>01 «The Requiem»</p>
+<p>02 «The Radiance»</p>
+<p>03 «Burning in the Skies»</p>
+<p>04 «Empty Spaces»</p>
+<p>05 «When They Come for Me»</p>
+<p>06 «Robot Boy»</p>
+<p>07 «Jornada Del Muerto»</p>
+<p>08 «Waiting for the End»</p>
+<p>09 «Blackout»</p>
+<p>10 «Wretches and Kings»</p>
+<p>11 «Wisdom, Justice, and Love» </p>
+<p>12 «Iridescent»</p>
+<p>13 «Fallout»</p>
+<p>14 «The Catalyst»</p>
+<p>15 «The Messenger»</p>
+</div>
+<div class="col-lg-3 text-center">
+<p>Publicación:  	 	14 de septiembre de 2010</p>
+<p>Duración:  	 47:56 minutos</p>
+<p>Discográfica: 	Warner Bros. Records</p>
+</div>
+<div class="col-lg-12 text-right">
+<img src="img/atras.png" width="50" id="discos">
+</div>

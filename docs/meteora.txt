@@ -1,0 +1,27 @@
+<div class="col-lg-6" >
+<img src="img/meteora.jpg" width="400">
+</div>
+<div class="col-lg-3" >
+<br/>
+<p>01 «Foreword»</p>
+<p>02 «Don't Stay»</p>
+<p>03 «Somewhere I Belong»</p>
+<p>04 «Lying from You»</p>
+<p>05 «Hit the Floor»</p>
+<p>06 «Easier to Run»</p>
+<p>07 «Faint»</p>
+<p>08 «Figure.09»</p>
+<p>09 «Breaking the Habit»</p>
+<p>10 «From the Inside»</p>
+<p>11 «Nobody's Listening»</p>
+<p>12 «Session»</p>
+<p>13 «Numb»</p>
+</div>
+<div class="col-lg-3 text-center">
+<p>Publicación:  	25 de marzo de 2003</p>
+<p>Duración:  	36:35 minutos</p>
+<p>Discográfica: Warner Bros. Records</p>
+</div>
+<div class="col-lg-12 text-right">
+<img src="img/atras.png" width="50" id="discos">
+</div>

@@ -1,0 +1,27 @@
+<div class="col-lg-6" >
+<img src="img/minutes_to_midnight.jpg" width="400">
+</div>
+<div class="col-lg-3" >
+<br/>
+<p>01 «Wake»</p>
+<p>02 «Given Up»</p>
+<p>03 «Leave Out All the Rest»</p>
+<p>04 «Bleed It Out»</p>
+<p>05 «Shadow of the Day»</p>
+<p>06 «What I've Done»</p>
+<p>07 «Hands Held High»</p>
+<p>08 «No More Sorrow»</p>
+<p>09 «Valentine's Day»</p>
+<p>10 «In Between»</p>
+<p>11 «In Pieces»</p>
+<p>12 «The Little Things Give You Away»</p>
+<p>13 «No Roads Left»</p>
+</div>
+<div class="col-lg-3 text-center">
+<p>Publicación:  	 	15 de mayo de 2007</p>
+<p>Duración:  	 	43:29 minutos</p>
+<p>Discográfica: 	Warner Bros. Records y Machine Shop Recordings</p>
+</div>
+<div class="col-lg-12 text-right">
+<img src="img/atras.png" width="50" id="discos">
+</div>

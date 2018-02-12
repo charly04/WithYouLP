@@ -1,0 +1,26 @@
+<div class="col-lg-6" >
+<img src="img/living_things.jpeg" width="400">
+</div>
+<div class="col-lg-3" >
+<br/>
+<p>01 «Lost in the Echo»</p>
+<p>02 «In My Remains»</p>
+<p>03 «Burn It Down»</p>
+<p>04 «Lies Greed Misery»</p>
+<p>05 «I'll Be Gone»</p>
+<p>06 «Castle of Glass»</p>
+<p>07 «Victimized»</p>
+<p>08 «Roads Untraveled»</p>
+<p>09 «Skin to Bone»</p>
+<p>10 «Until It Breaks»</p>
+<p>11 «Tinfoil» </p>
+<p>12 «Powerless»</p>
+</div>
+<div class="col-lg-3 text-center">
+<p>Publicación:  	 	 	26 de junio de 2012</p>
+<p>Duración:  	  	 	37:05 minutos</p>
+<p>Discográfica: 	 	Warner Bros. Records y Machine Shop Recordings</p>
+</div>
+<div class="col-lg-12 text-right">
+<img src="img/atras.png" width="50" id="discos">
+</div>

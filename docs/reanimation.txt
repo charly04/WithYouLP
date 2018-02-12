@@ -1,0 +1,37 @@
+<div class="col-lg-5" >
+<img src="img/reanimation.jpg" width="400">
+</div>
+<div class="col-lg-2" >
+<br/>
+<p>01 «Opening»</p>
+<p>02 «Pts.Of.Athrty»</p>
+<p>03 «Enth E Nd»</p>
+<p>04 «[Chali]»</p>
+<p>05 «Frgt/10»</p>
+<p>06 «P5hng Me A*wy»</p>
+<p>07 «Plc.4 Mie Hæd»</p>
+<p>08 «X-Ecutioner Style»</p>
+<p>09 «H! Vltg3»</p>
+<p>10 «[Riff Raff]»</p>
+</div>
+<div class="col-lg-2" >
+<br/>
+<p>11 «Wth>You»</p>
+<p>12 «Ntr\Mssion»</p>
+<p>13 «Ppr:Kut»</p>
+<p>14 «Rnw@y»</p>
+<p>15 «My <Dsmbr»</p>
+<p>16 «[Stef]»</p>
+<p>17 «By_Myslf»</p>
+<p>18 «Kyur4 Th Ich»</p>
+<p>19 «1stp Klosr»</p>
+<p>20 «Krwlng»</p>
+</div>
+<div class="col-lg-3 text-center">
+<p>Publicación:  	30 de julio de 2002</p>
+<p>Duración:  	60:52 minutos</p>
+<p>Discográfica: Warner Bros. Records</p>
+</div>
+<div class="col-lg-12 text-right">
+<img src="img/atras.png" width="50" id="discos">
+</div>

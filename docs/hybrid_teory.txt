@@ -1,0 +1,26 @@
+<div class="col-lg-6" >
+<img src="img/hybrid_teory.jpg" width="400">
+</div>
+<div class="col-lg-3" >
+<br/>
+<p>01 «Papercut»</p>
+<p>02 «One Step Closer»</p>
+<p>03 «With You»</p>
+<p>04 «Points of Authority»</p>
+<p>05 «Crawling»</p>
+<p>06 «Runaway»</p>
+<p>07 «By Myself»</p>
+<p>08 «In the End»</p>
+<p>09 «A Place For My Head»</p>
+<p>10 «Forgotten»</p>
+<p>11 «Cure for the Itch»</p>
+<p>12 «Pushing Me Away»</p>
+</div>
+<div class="col-lg-3 text-center">
+<p>Publicación: 24 de octubre de 2000</p>
+<p>Duración: 37:51 minutos</p>
+<p>Discográfica: Warner Music Group</p>
+</div>
+<div class="col-lg-12 text-right">
+<img src="img/atras.png" width="50" id="discos">
+</div>

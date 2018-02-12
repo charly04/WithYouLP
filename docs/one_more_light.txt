@@ -1,0 +1,24 @@
+<div class="col-lg-6" >
+<img src="img/one_more_light.jpg" width="400">
+</div>
+<div class="col-lg-3" >
+<br/>
+<p>01 «Nobody Can Save Me»</p>
+<p>02 «Good Goodbye»</p>
+<p>03 «Talking to Myself»</p>
+<p>04 «Battle Symphony»</p>
+<p>05 «Invisible»</p>
+<p>06 «Heavy»</p>
+<p>07 «Sorry for Now»</p>
+<p>08 «Halfway Right»</p>
+<p>09 «One More Light»</p>
+<p>10 «Sharp Edges»</p>
+</div>
+<div class="col-lg-3 text-center">
+<p>Publicación:  	 	19 de mayo de 2017</p>
+<p>Duración:  	 35:19 minutos</p>
+<p>Discográfica: 	Warner Bros. Records y Machine Shop Recordings</p>
+</div>
+<div class="col-lg-12 text-right">
+<img src="img/atras.png" width="50" id="discos">
+</div>

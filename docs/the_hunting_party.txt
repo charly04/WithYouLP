@@ -1,0 +1,26 @@
+<div class="col-lg-6" >
+<img src="img/the_hunting_party.jpg" width="400">
+</div>
+<div class="col-lg-3" >
+<br/>
+<p>01 «Keys to the Kingdom»</p>
+<p>02 «All for Nothing»</p>
+<p>03 «Guilty All the Same»</p>
+<p>04 «The Summoning»</p>
+<p>05 «War»</p>
+<p>06 «Wastelands»</p>
+<p>07 «Until It's Gone»</p>
+<p>08 «Rebellion»</p>
+<p>09 «Mark the Graves»</p>
+<p>10 «Drawbar»</p>
+<p>11 «Final Masquerade» </p>
+<p>12 «A Line In the Sand»</p>
+</div>
+<div class="col-lg-3 text-center">
+<p>Publicación:  	 	13 de junio de 2014</p>
+<p>Duración:  	  	45:12 minutos</p>
+<p>Discográfica: 	Warner Bros. Records</p>
+</div>
+<div class="col-lg-12 text-right">
+<img src="img/atras.png" width="50" id="discos">
+</div>

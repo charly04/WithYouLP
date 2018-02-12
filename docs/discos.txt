@@ -1,0 +1,10 @@
+<div class="col-lg-12  text-center" >
+<img src="img/hybrid_teory.jpg" width="250" id="hybrid_teory">
+<img src="img/meteora.jpg" width="250" id="meteora">
+<img src="img/minutes_to_midnight.jpg" width="250" id="minutes_to_midnight">
+<img src="img/a_thousand_suns.jpg" width="250" id="a_thousand_suns">
+<img src="img/living_things.jpeg" width="250" id="living_things">
+<img src="img/the_hunting_party.jpg" width="250" id="the_hunting_party">
+<img src="img/one_more_light.jpg" width="250" id="one_more_light">
+<img src="img/reanimation.jpg" width="250" id="reanimation">
+</div>
